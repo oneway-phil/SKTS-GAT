@@ -12,9 +12,8 @@
 
 
 ## Result in diff datasets
-[Figure5_2d.pdf](https://github.com/user-attachments/files/16360461/Figure5_2d.pdf)
-[Figure5_3d.pdf](https://github.com/user-attachments/files/16360463/Figure5_3d.pdf)
-
+![image](https://github.com/user-attachments/assets/e39e8f2c-098a-4c1e-8f25-07f841a277f0)
+![image](https://github.com/user-attachments/assets/c317f631-5d9a-4b90-b06a-94e1571d7446)
 
 
 ## Citations
